@@ -12,6 +12,8 @@
 using namespace std;
 using namespace bridges;
 
+/*To use without bridges api comment out option 6 for graph implmentation and comment out using namespace bridges;,  
+#include "GraphAdjList.h", #include "Bridges.h"*/
 
 //Test
 void shuffleIDs(vector<int>& randomIDs) {
